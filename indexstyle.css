@@ -4,6 +4,8 @@ body {
 	margin: 0;
 	color: #FCFBFB;
 	line-height: 1.8;
+	background-image: url("ride0.jpg");
+	background-size: cover;
 }
 
 a{
@@ -14,7 +16,6 @@ a{
 #sports{
 	margin: 0;
 	padding: 0;
-	background: url('file:///C:/Users/SAMEER%20RAJPUT/Desktop/Project/New%20folder/ride0.jpg') no-repeat center/cover;
 	width: 100%;
 	height: 100vh; 
 /*	viewport-height*/
@@ -72,6 +73,7 @@ nav li:hover{
 	text-align: center;
 	margin: 0 auto;
 	padding: 0 3rem;
+	color: #030100;
 }
 
 .lead{
@@ -108,5 +110,4 @@ footer .footer-bottom{
 	display: inline;
 
 }
-
 
